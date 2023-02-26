@@ -1,1 +1,1 @@
-puts("Hello world in c")
+Hello guys and gals
