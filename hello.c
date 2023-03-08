@@ -1,1 +1,1 @@
-printf("%s ", "C is the root of all Languages");
+C is the root of all Languages
